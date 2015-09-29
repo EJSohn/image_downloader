@@ -1,2 +1,2 @@
 # image_downloader
-download all image in url using python http, htmlparser module 
+download all images in url using python http, htmlparser module 
